@@ -1,0 +1,1 @@
+This Car Sales Report provides comprehensive insights into the sales data of various car models, with dynamic features such as slicers for car make and fuel type, time series analysis for year and quantity sold, brand market values, top 5 models, market share, and key performance indicators (KPIs) including units sold, total revenue, total models in make, and sales by model.
